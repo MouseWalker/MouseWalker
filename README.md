@@ -1,6 +1,9 @@
 # MouseWalker
 v1
 
+<a href="http://dx.doi.org/10.5281/zenodo.18233"><img src="https://zenodo.org/badge/13608/MouseWalker/MouseWalker.svg"><a>
+
+--------------------------------------------
 MATLAB Compiler
 
 1. Prerequisites for Deployment 
